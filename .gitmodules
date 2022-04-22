@@ -1,0 +1,3 @@
+[submodule "3rd/mini-plugin"]
+	path = 3rd/mini-plugin
+	url = https://github.com/sunjinbo/mini-plugin.git
